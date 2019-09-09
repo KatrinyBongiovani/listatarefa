@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">listatarefa</string>
+    <string name="title_activity_criar_conta">CriarConta</string>
+    <string name="title_activity_tarefas">Tarefas</string>
+    <string name="title_activity_nova_tarefa">NovaTarefa</string>
+    <string name="title_activity_tarefa">Tarefa</string>
+</resources>
